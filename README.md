@@ -1,2 +1,9 @@
 # tic_tac_toc_minimax
-Create a simple minimax in tic tac toe
+## Description
+- Create a simple minimax in tic tac toe
+- can improve to have pruning
+## Difficulties
+- recursive concept, depth involved
+- make move and undo move in the board
+## Reference
+- handle least move win https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/
