@@ -2,6 +2,10 @@
 ## Description
 - Create a simple minimax in tic tac toe
 - can improve to have pruning
+
+## Notes
+- alpha beta pruning is storing the score in each layer
+
 ## Difficulties
 - recursive concept, depth involved
 - make move and undo move in the board
